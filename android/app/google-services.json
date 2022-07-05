@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939620423875",
+    "project_id": "firbasesample-d23c4",
+    "storage_bucket": "firbasesample-d23c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939620423875:android:c8b0ec2def53b2a3a46a76",
+        "android_client_info": {
+          "package_name": "uz.nosirov.firbase_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939620423875-5j7p5h4fkgpco1eke43q6efpj679hi65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB93YpuOUD8x1bO0IjYUVCo0jm-Z4PPsn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939620423875-5j7p5h4fkgpco1eke43q6efpj679hi65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
